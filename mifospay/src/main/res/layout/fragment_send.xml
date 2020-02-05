@@ -172,6 +172,7 @@
                         android:paddingBottom="@dimen/value_10dp"
                         android:hint="@string/mobile_number"
                         android:inputType="number"
+                        android:paddingLeft="@dimen/value_10dp"
                         android:singleLine="true"
                         android:textAlignment="center"
                         android:textSize="@dimen/value_15sp"
